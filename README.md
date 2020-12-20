@@ -17,3 +17,9 @@ fn main() {
     speaker.speak("Olá Mundo!");
 }
 ```
+
+## Como instalar o espeak no linux
+```bash
+sudo apt-get update && apt-get upgrade
+sudo apt-get install espeak
+```
