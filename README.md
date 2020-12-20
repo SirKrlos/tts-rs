@@ -4,6 +4,7 @@ Uma crate básica para utilização de espeak em rust lang.
 ## Como utilizar em Cargo.toml
 
 ```toml
+[dependencies]
 tts = { git = "https://github.com/JoseCarlosSkar/tts-rs", branch = "main" }
 ```
 
