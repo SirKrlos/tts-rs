@@ -22,5 +22,5 @@ fn main() {
 ## Como instalar o espeak no linux
 ```bash
 sudo apt-get update && apt-get upgrade
-sudo apt-get install espeak
+sudo apt-get install espeak clang
 ```
